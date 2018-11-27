@@ -1,0 +1,116 @@
+#cartajugador0{
+width: 330px;
+height: 450px;
+border: 1px solid black;
+border-collapse: collapse;
+position: relative;
+    float: left;
+
+}
+#cartajugador1{
+    width: 330px;
+    height: 450px;
+    border: 1px solid black;
+    border-collapse: collapse;
+    margin-left:2%;
+    position: relative;
+    float: left;
+    
+    }
+    #cartajugador2{
+        width: 330px;
+        height: 450px;
+        border: 1px solid black;
+        border-collapse: collapse;
+        margin-left: 2%;
+        position: relative;
+        float: left;
+        }
+        #cartajugador3{
+            width: 330px;
+            height: 450px;
+            border: 1px solid black;
+            border-collapse: collapse;
+            margin-left: 2%;
+            position: relative;
+            float: left;
+            }
+            #cartajugador4{
+                width: 330px;
+                height: 450px;
+                border: 1px solid black;
+                border-collapse: collapse;
+                margin-left: 2%;
+                position: relative;
+                float: left;
+                
+                }
+.palodecartaupr{
+
+
+    margin-left: 70%;
+    font-size: 45px;
+    margin-top: 1%;
+    color:red;
+
+}
+.palodecartadownr{
+
+    margin-top: 30%;
+    margin-left: 2%;
+    font-size: 45px;
+    position: relative;
+    float: left;
+    color: red;
+
+}
+
+
+.cartasenelmedior{
+    color: red;
+    width: 150px;
+    height: 50px;
+    margin-left: 25%;
+    font-size: 40px;
+    margin-top: -5%;
+    
+}
+
+.palodecartaup{
+
+
+    margin-left: 70%;
+    font-size: 45px;
+    margin-top: 1%;
+ 
+
+}
+.palodecartadown{
+
+    margin-top: 30%;
+    margin-left: 2%;
+    font-size: 45px;
+    position: relative;
+    float: left;
+    color: black;
+   
+   
+  
+
+}
+.cartasenelmedio{
+    color: black;
+    width: 150px;
+    height: 50px;
+    margin-left: 25%;
+    font-size: 40px;
+    margin-top: -5%;
+  
+}
+
+#contenedor{
+
+    height: 500px;
+    position: absolute;
+    height: 500px;
+}
